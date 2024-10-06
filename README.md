@@ -7,4 +7,11 @@ Instructions for running the project
 2. .\venv\Scripts\activate!
 3. pip install -r requirements.txt
 4. streamlit run main.py
-5.  
+
+
+-Git Instructions:
+git init
+git add .
+add commit -m "initial commit"
+git remote add origin https://github.com/<username>/<repository>.git
+git push -u origin master
